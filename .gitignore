@@ -1,0 +1,17 @@
+/classpath.txt
+.*.sw?
+*~
+*.bak
+~*
+.~*
+/local*
+build
+/gradle-app.setting
+**/*.iml
+**/.idea
+**/bin/
+.classpath
+.project
+*.prefs
+.gradle/*
+**/.settings/
